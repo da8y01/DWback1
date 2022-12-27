@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericApi1", "GenericApi1\GenericApi1.csproj", "{B6653694-44F7-4986-90A8-C5DB46E5F64A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6653694-44F7-4986-90A8-C5DB46E5F64A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6653694-44F7-4986-90A8-C5DB46E5F64A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6653694-44F7-4986-90A8-C5DB46E5F64A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6653694-44F7-4986-90A8-C5DB46E5F64A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37CCC568-E2A1-4B60-A2BF-B6953E22C2AA}
+	EndGlobalSection
+EndGlobal
